@@ -1,0 +1,6 @@
+Skytrax Airline Review Analysis Results
+=====================================
+Total Reviews: 1000
+Positive: 619 (61.90%)
+Negative: 371 (37.10%)
+Neutral: 10 (1.00%)
